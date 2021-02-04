@@ -1,0 +1,7 @@
+{
+  "name": "imprv",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
